@@ -142,7 +142,7 @@ class BlogForm extends Component {
           <div className="post-6-mian py-5">
             <div className="container py-lg-5">
               <h3 className="hny-title text-center mb-0 ">Latest Blog <span>Posts</span></h3>
-              <p className="mb-5 text-center">Handpicked Favourites just for you</p>
+              <p className="mb-5 text-center">Hand picked favourites just for you</p>
               <div className="post-hny-grids row mt-5">
 
                 {this.props.dataItem.map((item) =>
